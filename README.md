@@ -3,9 +3,9 @@
 부동산 매물을 등록할 수 있고, 회원은 위치를 기반으로 매물을 조회하고 계약 할 수 있는 Servlet/JSP 기반의 웹사이트입니다.<br>
 <br>
 ### 기술 스택 및 개발 환경
-.Platform : Window10
-.Language : Java(JDK11)
-.IDE : Eclipse
+.Platform : Window10 <br>
+.Language : Java(JDK11) <br>
+.IDE : Eclipse <br>
 
 
 
