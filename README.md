@@ -13,8 +13,8 @@
 
 <br>
 
-### 
-
+### 순서도
+<img src="https://user-images.githubusercontent.com/111429706/185704120-3cfe5153-5578-4569-83c2-713b86798ab1.png" width="830" height="530"/>
 
 
 <br>
